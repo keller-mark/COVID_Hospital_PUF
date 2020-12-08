@@ -100,7 +100,7 @@ There are a few hospital facilities that do not have CCN numbers in the database
 * U.S Hospital Reporting Dashboard from HHS Protect - https://protect-public.hhs.gov/pages/covid19-module 
 * There is a capacity report aggregated at the state level that shows the same information, aggregated at the state level. https://healthdata.gov/dataset/covid-19-reported-patient-impact-and-hospital-capacity-state-timeseries 
 * There is a report that State Level COVID capacity data https://healthdata.gov/dataset/covid-19-estimated-patient-impact-and-hospital-capacity-state 
-* Daily deaths and hospitalizations https://healthdata.gov/dataset/covid-19-daily-cases-deaths-and-hospitalizations 
+* City of Chicago daily deaths and hospitalizations https://healthdata.gov/dataset/covid-19-daily-cases-deaths-and-hospitalizations 
 ### What geographic analysis methods are possible with this data?
 See the question about data linking for methods to link data into various census datasets. These datasets cover issues related to socioeconomic status, social determinants of health and other healthcare equity issues. There is also a field called is_metro_micro which can be used to quickly make a determination about how large a city the hospital is serving. This is a good way to quickly conduct a geographical analysis of rural vs urban settings in the reported data. This is based on the [Metropolitan vs Micropolitan distinction in Census data](https://www.census.gov/programs-surveys/metro-micro.html)
 ### What other organizations generate reports or data views on this data?
